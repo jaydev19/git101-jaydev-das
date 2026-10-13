@@ -23,3 +23,10 @@ tmp/
 Thumbs.db
 .vscode/
 .idea/
+
+# Raw and processed data
+data/raw/
+data/processed/
+# Chapter 8 raw and processed data
+labs/ch08-repo-hygiene/bad-repo-example/data/raw/
+labs/ch08-repo-hygiene/bad-repo-example/data/processed/
