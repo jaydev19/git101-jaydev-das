@@ -5,3 +5,9 @@ outputs/
 logs/
 data/raw/
 data/processed/
+
+# Ignore sensitive configuration files
+config/
+
+# Ignore local datasets
+data/sample/
